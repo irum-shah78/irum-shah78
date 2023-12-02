@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Small projects.**
 
-- 🌱 I’m currently learning **ReactJS and more.**
+- 🌱 I’m currently learning **ReactJS and exploring more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irum-shah78](https://github.com/irum-shah78)
 
-- 💬 Ask me about **JS,ReactJs.**
+- 💬 Ask me about **Front-end development, CCNA, JavaScript, ReactJs.**
 
 - 📫 How to reach me **irams4812@gmail.com**
 
