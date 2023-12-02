@@ -1,7 +1,7 @@
-![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
+![Shadir's GitHub Banner](https://cdn.dribbble.com/users/320114/screenshots/2575134/media/7ffbc597d322d39017f3f2696b8def6e.gif)
 <h1 align="center">Hi 👋, I'm Irum Shahzadi</h1>
 <h3 align="center">A passionate Front-end Developer from Pakistan.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.giff">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irum-shah78&label=Profile%20views&color=0e75b6&style=flat" alt="irum-shah78" /> </p>
 
