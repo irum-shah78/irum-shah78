@@ -3,7 +3,7 @@
   <img class="banner" src="https://cdn.dribbble.com/users/1735328/screenshots/3720725/dribbble-hellonemo-react-hiring.png" alt="Shadir's GitHub Banner" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Irum Shahzadi</h1>
 <h3 align="center">A passionate Front-end Developer from Pakistan.</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
+<img align="center" alt="Coding" width="400" style="display: flex; flex-direction: column; align-items: center; text-align: center; src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irum-shah78&label=Profile%20views&color=0e75b6&style=flat" alt="irum-shah78" /> </p>
 
