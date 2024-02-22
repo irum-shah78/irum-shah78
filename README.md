@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irum-shah78" alt="irum-shah78" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/irum_shah12" target="blank"><img src="https://img.shields.io/twitter/follow/irums56?logo=twitter&style=for-the-badge" alt="irums56" /></a> </p>
+<p align="left"> <a href="https://twitter.com/irum_shah12" target="blank"><img src="https://img.shields.io/twitter/follow/irum_shah12?logo=twitter&style=for-the-badge" alt="irum_shah12" /></a> </p>
 
 - 🔭 I’m currently working on **Different projects to improve my skillset.**
 
