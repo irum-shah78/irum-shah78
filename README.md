@@ -2,7 +2,7 @@
  <body style="display: flex; flex-direction: column; align-items: center; text-align: center;">
   <img class="banner" src="https://cdn.dribbble.com/users/1735328/screenshots/3720725/dribbble-hellonemo-react-hiring.png" alt="Shadir's GitHub Banner" style="width: 100%;">
 <h1 align="center">Hi 👋, I'm Irum Shahzadi</h1>
-<h3 align="center">A passionate Front-end Developer from Pakistan.</h3>
+<h3 align="center">A passionate Frontend Developer from Pakistan.</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irum-shah78&label=Profile%20views&color=0e75b6&style=flat" alt="irum-shah78" /> </p>
@@ -11,20 +11,20 @@
 
 <p align="left"> <a href="https://twitter.com/irum_shah12" target="blank"><img src="https://img.shields.io/twitter/follow/irum_shah12?logo=twitter&style=for-the-badge" alt="irum_shah12" /></a> </p>
 
-- 🔭 I’m currently working on **Different projects to improve my skillset.**
+- 🔭 I’m currently working on **Projects.**
 
 - 🌱 I’m currently learning **MERN Stack.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irum-shah78](https://github.com/irum-shah78)
 
-- 💬 Ask me about **Front-end development, CCNA, JavaScript, ReactJs.**
+- 💬 Ask me about **Software Engineering, Frontend Development and Cyber Security.**
 
-- 📫 How to reach me **irams4812@gmail.com**
+- 📫 How to reach me **irums.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/irum_shah12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irums56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irum-shahzadi-i9182113s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irum-shahzadi-i9182113s/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/irum-shahzadi-i9182113s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irum-shahzadi/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100051186189990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100051186189990" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_.irum_shah._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.irum_shah._/" height="30" width="40" /></a>
 </p>
