@@ -10,16 +10,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irum-shah78" alt="irum-shah78" /></a> </p>
 
-<p>About me</p>
-- 🔭 I’m currently working as **Associate Software Engineer.**
-
-- 🌱 I’m currently learning **Angular, Backend & MERN Stack.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/irum-shah78](https://github.com/irum-shah78)
-
-- 💬 Ask me about **Software Engineering, Frontend Development and Cyber Security.**
-
-- 📫 How to reach me **irums.dev@gmail.com**
+<h3>About me</h3>
+ <ul style="text-align: left; list-style-type: none; color: white; font-size: 1.1rem;">
+    <li>🔭 I’m currently working as <strong>Associate Software Engineer.</strong></li>
+    <li>🌱 I’m currently learning <strong>Angular, Backend & MERN Stack.</strong></li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/irum-shah78" style="color: #ffcc00; text-decoration: none;">GitHub</a></li>
+    <li>💬 Ask me about <strong>Software Engineering, Frontend Development and Cyber Security.</strong></li>
+    <li>📫 How to reach me <strong>irums.dev@gmail.com</strong></li>
+  </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
