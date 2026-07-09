@@ -27,39 +27,40 @@ I'm a **Full-Stack Software Engineer** based in Lahore, Pakistan, with 2+ years 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,fastapi,python,postgres,mongodb,gcp,vercel,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,redux,tailwind,bootstrap,nodejs,express,nestjs,fastapi,python,postgres,mongodb,gcp,vercel,git,aws,&theme=dark" />
 
 </div>
 
 <br/>
 
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://mypie.ai" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=MyPie-AI&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://mobilemate.io" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=MobileMate&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-
-<a href="https://beat2k.netlify.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=Beat2K&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-<a href="https://todo-app-irum.vercel.app" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=Todo-App&theme=tokyonight&hide_border=true&description_lines_count=2" />
-</a>
-
-</div>
-
-> **MyPie.ai** — AI-powered English fluency platform with real-time conversational sessions (React.js + OpenAI API + FastAPI)
-> **MobileMate.io** — Smartphone companion platform: specs database, comparison tool, marketplace (React.js + Node.js + MongoDB)
-> **Beat2K** — Exclusive beat marketplace with Stripe payments and one-owner-per-beat logic (Next.js + Tailwind + Stripe)
-> **Todo App** — Full-stack task manager with Google/email auth (Next.js + Prisma + MongoDB + NextAuth)
-
-*(Pin card repo names above may need to match your actual GitHub repo names — let me know if they differ and I'll fix the links.)*
-
+ 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗣️ <a href="https://mypie.ai" target="_blank">MyPie.ai</a></h3>
+      <p>AI-powered English fluency platform delivering real-time conversational learning sessions, with a stateful session layer for personalized interactions.</p>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://mobilemate.io" target="_blank">MobileMate.io</a></h3>
+      <p>Smartphone companion platform — specs database, side-by-side comparison tool, buy/sell marketplace, and in-app diagnostics, with full Google OAuth 2.0 auth.</p>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 <a href="https://beat2k.netlify.app" target="_blank">Beat2K</a></h3>
+      <p>Exclusive beat marketplace with category browsing, audio previews, and a one-owner-per-beat purchase model backed by real-time inventory updates.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://todo-app-irum.vercel.app" target="_blank">Todo App</a></h3>
+      <p>Full-stack task manager with email/password + Google Sign-In, password reset, and server-validated CRUD via Next.js API routes.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=auth0&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 <br/>
 
 ## 📊 GitHub Stats
