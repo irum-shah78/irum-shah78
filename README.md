@@ -1,38 +1,106 @@
-<body style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-<h1 align="center" style="display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; text-shadow: 2px 2px 5px rgba(0,0,0,0.3);">
-    Hi, I'm Irum Shahzadi
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg" alt="Pakistan Flag" width="30" height="20" style="margin-right: 10px;" />
-  </h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan.</h3>
-<img align="center" alt="Coding" width="800" src="https://cdn.dribbble.com/users/1668950/screenshots/3863114/rodoshi.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=irum-shah78&label=Profile%20views&color=0e75b6&style=flat" alt="irum-shah78" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6DD5FA&height=200&section=header&text=Irum%20Shahzadi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Lahore%2C%20Pakistan&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irum-shah78" alt="irum-shah78" /></a> </p>
+<a href="https://www.linkedin.com/in/irum-shahzadi/">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=React.js+%2B+Next.js+%2B+TypeScript;FastAPI+%2B+NestJS+%2B+Node.js;Building+AI-powered+products+end-to-end" alt="Typing SVG" />
+</a>
 
-<h3>About me</h3>
- <ul style="text-align: left; list-style-type: none; color: white; font-size: 1.1rem;">
-    <li>🔭 I’m currently working as <strong>Associate Software Engineer.</strong></li>
-    <li>🌱 I’m currently learning <strong>Angular, Backend & MERN Stack.</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="https://github.com/irum-shah78" style="color: #ffcc00; text-decoration: none;">GitHub</a></li>
-    <li>💬 Ask me about <strong>Software Engineering, Frontend Development and Cyber Security.</strong></li>
-    <li>📫 How to reach me <strong>irums.dev@gmail.com</strong></li>
-  </ul>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/irum_shah12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="irums56" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/irum-shahzadi-i9182113s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/irum-shahzadi/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100051186189990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100051186189990" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_.irum_shah._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_.irum_shah._/" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 👋 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irum-shah78&show_icons=true&locale=en&layout=compact" alt="irum-shah78" /></p>
+I'm a **Full-Stack Software Engineer** based in Lahore, Pakistan, with 2+ years of experience shipping production web apps end-to-end — from CRMs and healthcare platforms to AI-powered tools and marketplaces.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irum-shah78&show_icons=true&locale=en" alt="irum-shah78" /></p>
+- 💼 Currently a **Software Engineer at Brackets**, building a healthcare platform with **Next.js, NestJS, PostgreSQL & TypeScript**
+- 🏢 Previously at **Databiqs**, where I architected a production CRM (React.js + FastAPI + PostgreSQL on GCP) and shipped AI chatbots, a 3D avatar builder, and Stripe billing integrations
+- 🤖 Enjoy integrating AI — OpenAI API, streaming chat, real-time sessions
+- 🌐 Portfolio: **[irum-portfolio-tau.vercel.app](https://irum-portfolio-tau.vercel.app)**
+- 📫 Reach me at **irums.dev@gmail.com**
+- 🟢 Open to remote opportunities with teams building AI-powered products
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irum-shah78&" alt="irum-shah78" /></p>
-</body>
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,fastapi,python,postgres,mongodb,gcp,vercel,git&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://mypie.ai" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=MyPie-AI&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://mobilemate.io" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=MobileMate&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+<a href="https://beat2k.netlify.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=Beat2K&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+<a href="https://todo-app-irum.vercel.app" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=irum-shah78&repo=Todo-App&theme=tokyonight&hide_border=true&description_lines_count=2" />
+</a>
+
+</div>
+
+> **MyPie.ai** — AI-powered English fluency platform with real-time conversational sessions (React.js + OpenAI API + FastAPI)
+> **MobileMate.io** — Smartphone companion platform: specs database, comparison tool, marketplace (React.js + Node.js + MongoDB)
+> **Beat2K** — Exclusive beat marketplace with Stripe payments and one-owner-per-beat logic (Next.js + Tailwind + Stripe)
+> **Todo App** — Full-stack task manager with Google/email auth (Next.js + Prisma + MongoDB + NextAuth)
+
+*(Pin card repo names above may need to match your actual GitHub repo names — let me know if they differ and I'll fix the links.)*
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irum-shah78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irum-shah78&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irum-shah78&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+## 🎓 Education
+
+**BS Software Engineering** — Government College University, Faisalabad (2020 – 2024)
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/irum-shahzadi/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://irum-portfolio-tau.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="mailto:irums.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=irum-shah78&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:0e75b6&height=100&section=footer" width="100%"/>
